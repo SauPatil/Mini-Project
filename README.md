@@ -1,1 +1,1 @@
-# Mini-Project
+Online Dj Booking System
